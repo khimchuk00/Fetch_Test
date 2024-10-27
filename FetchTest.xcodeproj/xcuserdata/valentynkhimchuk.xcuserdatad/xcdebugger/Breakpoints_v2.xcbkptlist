@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "0A071953-FC44-48D9-BC62-5F6A2D109B6E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BD5AFBDF-A635-40FE-B5FC-643DA00B4E43"
+            shouldBeEnabled = "Yes"
+            condition = "recipe.name == &quot;Apam Balik&quot;"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTest/Controllers/Main/Cells/RecipeCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "39"
+            endingLineNumber = "39"
+            landmarkName = "getImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "E707CDD0-E132-4B97-8F17-2502347F02BA"
+            shouldBeEnabled = "Yes"
+            condition = "recipe.name == &quot;Apam Balik&quot;"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTest/Controllers/Main/Cells/RecipeCellViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "getImage()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "686573EF-BE92-4007-9516-30C2878D960D"
+            shouldBeEnabled = "Yes"
+            condition = "query == &quot;https://d3jbb8n5wk0qxi.cloudfront.net/photos/b9ab0071-b281-4bee-b361-ec340d405320/small.jpg&quot;"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTest/CacheManager/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "loadImage(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "4D79A9AC-1293-4559-B146-46AA517FB568"
+            shouldBeEnabled = "Yes"
+            condition = "query == &quot;https://d3jbb8n5wk0qxi.cloudfront.net/photos/b9ab0071-b281-4bee-b361-ec340d405320/small.jpg&quot;"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FetchTest/CacheManager/CacheManager.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "loadImage(for:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
